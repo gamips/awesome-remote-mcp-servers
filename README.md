@@ -116,6 +116,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
+| Sodatsu Estimate | Finance & Accounting | `https://app.sodatsu-mitsumori.net/api/mcp` | OAuth2.1 | [Sodatsu Estimate](https://sodatsu-mitsumori.net/features/external-ai-mcp/?utm_source=awesome_remote_mcp&utm_medium=referral&utm_campaign=remote_mcp_directory) |
 | Stack Overflow | Software Development | `https://mcp.stackoverflow.com` | OAuth2.1 | [StackOverflow](https://stackoverflow.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
